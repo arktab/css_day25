@@ -35,7 +35,7 @@ body{
   letter-spacing: -0.21px;
 }
 .first_letter{
-  margin: 30px 25px 15px 0;
+  margin: 30px 25px -10px 0;
   display: block;
   float: left;
   width: 62px;
