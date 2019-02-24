@@ -55,7 +55,7 @@ body{
   opacity: 0.7;
   color: #171717;
   font-family: Lato;
-  font-size: 18px;
+  font-size: 1.125em;
   font-weight: 300;
   letter-spacing: -0.09px;
   line-height: 34px;
@@ -77,14 +77,14 @@ body{
   line-height: 34px;
 }
 .button{
+  margin-top: 1.5em;
   width: 264px;
   height: 68px;
   border: 2px solid #eaa258;
 }
 .b_text{
-  display: inline-block;
-  padding-top: 5%;
-  padding-left: 25%;
+  padding-top:15px;
+  text-align: center;
   color: #eaa258;
   font-family: Lato;
   font-size: 18px;
